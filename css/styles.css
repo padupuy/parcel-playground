@@ -1,0 +1,14 @@
+@import "./utils/reset.css";
+@import "./utils/variables.css";
+
+body {
+  background-color: var(--secondary);
+  color: var(--primary);
+  font-family: var(--font);
+}
+
+@media (--desktop) {
+  body {
+    background-color: blue;
+  }
+}

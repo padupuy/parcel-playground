@@ -1,0 +1,10 @@
+:root {
+  --font: Tahoma, Verdana, Segoe, sans-serif;
+
+  --gutter: 2rem;
+
+  --primary: #0e5d6d;
+  --secondary: #da9383;
+
+  @custom-media --desktop (min-width: 768px);
+}
