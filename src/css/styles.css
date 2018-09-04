@@ -1,5 +1,6 @@
-@import "./utils/reset.css";
-@import "./utils/variables.css";
+@import './utils/reset.css';
+@import './utils/variables.css';
+@import './utils/custom.css';
 
 body {
   background-color: var(--secondary);

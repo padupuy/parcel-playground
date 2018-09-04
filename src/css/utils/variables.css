@@ -1,3 +1,4 @@
+/*---variables---*/
 :root {
   --font: Tahoma, Verdana, Segoe, sans-serif;
 
@@ -5,6 +6,5 @@
 
   --primary: #0e5d6d;
   --secondary: #da9383;
-
-  @custom-media --desktop (min-width: 768px);
 }
+/*---variables---*/
